@@ -6,10 +6,14 @@ Recipe Finder is a web application built using HTML, CSS, and JavaScript that al
 ---
 ## 🌐 Live Demo
 
+(https://rahafjadallah.github.io/Recipe-Finder/)
 
 ---
 ## 📸 Preview
 
+<img width="1176" height="604" alt="Capture" src="https://github.com/user-attachments/assets/bbc6394c-dc01-4ccd-aeb4-c0f39384c81f" />
+<img width="1366" height="647" alt="Capture1" src="https://github.com/user-attachments/assets/be868273-9bf7-4ae6-b217-4075f77986f3" />
+<img width="1366" height="650" alt="Capture2" src="https://github.com/user-attachments/assets/032310da-84d3-4bc0-90fc-d841d8112be8" />
 
 ---
 
